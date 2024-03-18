@@ -1,0 +1,11 @@
+{ //typecprint konfogürasyon dosyası
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
